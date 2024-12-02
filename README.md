@@ -1,7 +1,7 @@
 # FEKSS
-3D Facial Animation Generation Based on Facial Expression Kendall Shape Space
+本实验用于测试是否在一段面部视频中混入某个表情！
 
-# Raw sentence
+# 原始视频
 
-<img src="./sentence01.gif" alt="sentence01" width="320" height="-1">
+<img src="./sentence01.gif" alt="sentence01" width="320" height="-1"> 
 
