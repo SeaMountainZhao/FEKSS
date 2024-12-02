@@ -5,5 +5,21 @@
 
 ## sentence 01
 
-<img src="./sentence01.gif" alt="sentence01" width="320" height="-1"> 
+<img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> 
+
+## sentence 02
+
+<img src="./gif/sentence02.gif" alt="sentence02" width="320" height="-1"> 
+
+## sentence 03
+
+<img src="./gif/sentence03.gif" alt="sentence03" width="320" height="-1"> 
+
+## sentence 04
+
+<img src="./gif/sentence04.gif" alt="sentence04" width="320" height="-1"> 
+
+## sentence 05
+
+<img src="./gif/sentence05.gif" alt="sentence05" width="320" height="-1"> 
 
