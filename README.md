@@ -30,7 +30,7 @@
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|![描述](./gif/cheeks_in.png)| ![描述](./gif/bareteeth.png)|![描述](./gif/eyebrow.png)| <img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> |
-|![描述](./gif/high_smile.png)|![描述](./gif/lips_back.png)|![描述](./gif/mouth_down.png)|<img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> |
+|![描述](./gif/cheeks_in.png)| ![描述](./gif/bareteeth.png)|![描述](./gif/eyebrow.png)| <img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">图 1：这是示例图片的说明。</p>|
+|![描述](./gif/high_smile.png)|![描述](./gif/lips_back.png)|![描述](./gif/mouth_down.png)|<img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">图 1：这是示例图片的说明。</p>|
 |![描述](./gif/mouth_side.png)|![描述](./gif/mouth_up.png)|     |     |
 
