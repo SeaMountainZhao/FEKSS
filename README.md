@@ -4,9 +4,9 @@
 # 原始视频
 |     |     |     |
 |-----|-----|-----|
-| ![描述](./gif/cheeks_in.png) | ![描述](./gif/bareteeth.png)  |   ![描述](./gif/eyebrow.png)  |
-|![描述](./gif/high_smile.png)  |![描述](./gif/lips_back.png)  |![描述](./gif/mouth_down.png)  |
-|![描述](./gif/mouth_side.png)  |![描述](./gif/mouth_up.png)  |     |
+|![描述](./gif/cheeks_in.png)| ![描述](./gif/bareteeth.png)|![描述](./gif/eyebrow.png)|
+|![描述](./gif/high_smile.png)|![描述](./gif/lips_back.png)|![描述](./gif/mouth_down.png)|
+|![描述](./gif/mouth_side.png)|![描述](./gif/mouth_up.png)|     |
 
 ## sentence 01
 
