@@ -4,8 +4,8 @@
 # 准备混入动画中的表情
 |     |     |     |
 |-----|-----|-----|
-|![描述](./gif/cheeks_in.png)| ![描述](./gif/mouth_side.png)|![描述](./gif/mouth_up.png)|
-|![描述](./gif/high_smile.png)|![描述](./gif/lips_back.png)|![描述](./gif/mouth_down.png)|
+|![描述](./gif/cheeks_in.png) <p style="text-align: center;">这是原始视频</p>| ![描述](./gif/mouth_side.png) <p style="text-align: center;">这是原始视频</p>|![描述](./gif/mouth_up.png) <p style="text-align: center;">这是原始视频</p>|
+|![描述](./gif/high_smile.png) <p style="text-align: center;">这是原始视频</p>|![描述](./gif/lips_back.png) <p style="text-align: center;">这是原始视频</p>|![描述](./gif/mouth_down.png) <p style="text-align: center;">这是原始视频</p>|
 
 
 
