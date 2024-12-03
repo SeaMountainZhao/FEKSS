@@ -4,8 +4,8 @@
 # 准备混入动画中的表情
 |     |     |     |
 |-----|-----|-----|
-|![描述](./gif/cheeks_in.png) <p style="text-align: center;">这是原始视频</p>| ![描述](./gif/mouth_side.png) <p style="text-align: center;">这是原始视频</p>|![描述](./gif/mouth_up.png) <p style="text-align: center;">这是原始视频</p>|
-|![描述](./gif/high_smile.png) <p style="text-align: center;">这是原始视频</p>|![描述](./gif/lips_back.png) <p style="text-align: center;">这是原始视频</p>|![描述](./gif/mouth_down.png) <p style="text-align: center;">这是原始视频</p>|
+|![描述](./gif/cheeks_in.png) <p style="text-align: center;">A.cheeks_in</p>| ![描述](./gif/mouth_side.png) <p style="text-align: center;">B.mouth_side</p>|![描述](./gif/mouth_up.png) <p style="text-align: center;">C.mouth_up</p>|
+|![描述](./gif/high_smile.png) <p style="text-align: center;">D.high_smile</p>|![描述](./gif/lips_back.png) <p style="text-align: center;">E.lips_back</p>|![描述](./gif/mouth_down.png) <p style="text-align: center;">F.mouth_down</p>|
 
 
 
@@ -13,8 +13,8 @@
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|![描述](./gif/cheeks_in.png)| ![描述](./gif/mouth_side.png)|![描述](./gif/mouth_up.png)| <img src="./gif/sentence05.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是原始视频</p>|
-|![描述](./gif/high_smile.png)|![描述](./gif/lips_back.png)|![描述](./gif/mouth_down.png)|<img src="./gif/05md.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是经过编辑的视频</p>|
+|![描述](./gif/cheeks_in.png)<p style="text-align: center;">A</p>| ![描述](./gif/mouth_side.png)<p style="text-align: center;">B</p>|![描述](./gif/mouth_up.png)<p style="text-align: center;">C</p>| <img src="./gif/sentence05.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是原始视频</p>|
+|![描述](./gif/high_smile.png)<p style="text-align: center;">D</p>|![描述](./gif/lips_back.png)<p style="text-align: center;">E</p>|![描述](./gif/mouth_down.png)<p style="text-align: center;">F</p>|<img src="./gif/05md.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是经过编辑的视频</p>|
 
 
 ## 测试1
