@@ -7,6 +7,7 @@
 |![描述](./gif/cheeks_in.gif) <p style="text-align: center;">A.cheeks_in</p>| ![描述](./gif/mouth_side.gif) <p style="text-align: center;">B.mouth_side</p>|![描述](./gif/mouth_up.gif) <p style="text-align: center;">C.mouth_up</p>|
 |![描述](./gif/high_smile.gif) <p style="text-align: center;">D.high_smile</p>|![描述](./gif/lips_back.gif) <p style="text-align: center;">E.lips_back</p>|![描述](./gif/mouth_down.gif) <p style="text-align: center;">F.mouth_down</p>|
 
+这里的表情动画仅提供展示，混入的表情是这些动画的峰值表情，并展示在每个测试的左侧。
 
 
 ## 测试1
