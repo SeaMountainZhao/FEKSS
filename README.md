@@ -4,8 +4,8 @@
 # 准备混入动画中的表情
 |     |     |     |
 |-----|-----|-----|
-|![描述](./gif/cheeks_in.png) <p style="text-align: center;">A.cheeks_in</p>| ![描述](./gif/mouth_side.png) <p style="text-align: center;">B.mouth_side</p>|![描述](./gif/mouth_up.png) <p style="text-align: center;">C.mouth_up</p>|
-|![描述](./gif/high_smile.png) <p style="text-align: center;">D.high_smile</p>|![描述](./gif/lips_back.png) <p style="text-align: center;">E.lips_back</p>|![描述](./gif/mouth_down.png) <p style="text-align: center;">F.mouth_down</p>|
+|![描述](./gif/cheeks_in.gif) <p style="text-align: center;">A.cheeks_in</p>| ![描述](./gif/mouth_side.gif) <p style="text-align: center;">B.mouth_side</p>|![描述](./gif/mouth_up.gif) <p style="text-align: center;">C.mouth_up</p>|
+|![描述](./gif/high_smile.gif) <p style="text-align: center;">D.high_smile</p>|![描述](./gif/lips_back.gif) <p style="text-align: center;">E.lips_back</p>|![描述](./gif/mouth_down.gif) <p style="text-align: center;">F.mouth_down</p>|
 
 
 
