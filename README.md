@@ -21,8 +21,8 @@
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|![描述](./gif/cheeks_in.png)| ![描述](./gif/mouth_side.png)|![描述](./gif/mouth_up.png)| <img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是原始视频</p>|
-|![描述](./gif/high_smile.png)|![描述](./gif/lips_back.png)|![描述](./gif/mouth_down.png)|<img src="./gif/01ci.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是经过编辑的视频</p>|
+|![描述](./gif/cheeks_in.png)<p style=")text-align: center;">A</p>| ![描述](./gif/mouth_side.png)<p style=")text-align: center;">A</p>|![描述](./gif/mouth_up.png)<p style=")text-align: center;">A</p>| <img src="./gif/sentence01.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是原始视频</p>|
+|![描述](./gif/high_smile.png)<p style=")text-align: center;">A</p>|![描述](./gif/lips_back.png)<p style=")text-align: center;">A</p>|![描述](./gif/mouth_down.png)|<img src="./gif/01ci.gif" alt="sentence01" width="320" height="-1"> <p style="text-align: center;">这是经过编辑的视频</p>|
 
 
 
